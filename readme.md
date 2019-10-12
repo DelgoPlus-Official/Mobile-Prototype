@@ -17,7 +17,7 @@
 
 * Go through the Table of Contents and choose the tool.
 * Search for a keyword or phrase (for example, "DELGOPLUS", "Mobile Prototype").
-* Ask [Agin DropDisco](https://twitter.com/agin_webdev) on Twitter to ge to know more about DelgoPlus.
+* Ask [Agin DropDisco](https://twitter.com/agin_webdev) on Twitter to get to know more about DelgoPlus.
 * Simple Smart Contract [DELGOPlus](https://etherscan.io/address/0xe298f7cce27dcd2671968022ac96d0af1a44ef75#code)
 
 
